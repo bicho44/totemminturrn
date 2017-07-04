@@ -24,7 +24,6 @@
 			   title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" rel="home"><img
 					src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/logo-header.png"
 					alt="<?php esc_attr(bloginfo('name')); ?>"
-					height="60px"
 					></a>
 		</div>
 
