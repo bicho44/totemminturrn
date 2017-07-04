@@ -27,7 +27,7 @@
 	<header id="masthead" class="site-header" role="banner">
 
 		<header id="masthead" class="site-header" role="banner">
-			<?php get_template_part('template-parts/menu/','bootstrap'); ?>
+			<?php get_template_part('template-parts/menu','bootstrap'); ?>
 		</header><!-- #masthead -->
 
 	</header><!-- #masthead -->
