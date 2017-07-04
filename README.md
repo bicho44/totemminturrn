@@ -1,4 +1,4 @@
-ENBIGA Theme
+Totem Ministerio de Turismo de Río Negro Theme
 ===
 
-Diseño para el Sitio web (https://enbiga.com)[ENBIGA]
+Diseño para el Totem en el Cerro Catedral del *Ministerio de Turismo de Río Negro*

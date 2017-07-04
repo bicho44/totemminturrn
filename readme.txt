@@ -1,9 +1,9 @@
-=== Turismo InterOceánico ===
+=== Totem del Ministerio de Turismo ===
 
 Contributors: automattic
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 
-Requires at least: 4.0
+Requires at least: 4.3
 Tested up to: 4.5.3
 Stable tag: 1.0.0
 License: GPLv2 or later
