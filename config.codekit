@@ -114,6 +114,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/images\/patagonia-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3664,
+		"inputAbbreviatedPath": "\/assets\/images\/patagonia-black.png",
+		"outputAbbreviatedPath": "\/assets\/images\/patagonia-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/patagonia-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3015,
+		"inputAbbreviatedPath": "\/assets\/images\/patagonia-white.png",
+		"outputAbbreviatedPath": "\/assets\/images\/patagonia-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/qr-rn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3536,
+		"inputAbbreviatedPath": "\/assets\/images\/qr-rn.png",
+		"outputAbbreviatedPath": "\/assets\/images\/qr-rn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/rn-tiene-todo-colores.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/rn-tiene-todo-colores.png",
+		"outputAbbreviatedPath": "\/assets\/images\/rn-tiene-todo-colores.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/vivi-arg-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2328,
+		"inputAbbreviatedPath": "\/assets\/images\/vivi-arg-black.png",
+		"outputAbbreviatedPath": "\/assets\/images\/vivi-arg-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/vivi-arg-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1942,
+		"inputAbbreviatedPath": "\/assets\/images\/vivi-arg-white.png",
+		"outputAbbreviatedPath": "\/assets\/images\/vivi-arg-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/script-ck.js": {
 		"fileType": 64,
 		"ignore": 0,

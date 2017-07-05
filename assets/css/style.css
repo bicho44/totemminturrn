@@ -2073,7 +2073,6 @@ a .icon-flip-vertical:before {
   font-family: 'FontAwesome', sans-serif;
   font-size: 18px;
   vertical-align: top;
-  horiz-align: center;
   -webkit-font-smoothing: antialiased;
 }
 #barra-social ul li a::before:hover {
@@ -2136,7 +2135,7 @@ a .icon-flip-vertical:before {
 }
 #menu-social li a[href*="instagram.com"]::before,
 #barra-social li a[href*="instagram.com"]::before {
-  content: '\f215';
+  content: '\f16D';
   /*color:   #3f729b;*/
 }
 #menu-social li a[href*="codepen.io"]::before,
