@@ -10117,6 +10117,9 @@ animation:         KEYFRAME-NAME 5s infinite;
   left: 0;
   z-index: 500;
 }
+.elementor-widget-container h2 {
+  color: #fff;
+}
 .navbar-default,
 .navbar-fixed-top {
   transition: all 1s;
